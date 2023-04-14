@@ -9,5 +9,5 @@
   * [💎 React.js Components](components/react.js-components.md)
 * [💅 Customization](customization.md)
 * [✨ Credits and Resources](credits-and-resources.md)
-* [🎯 Back to Main Site](https://tailadmin.com/)
 * [🔗 Useful Links](useful-links.md)
+* [🎯 Back to Main Site](https://tailadmin.com/)
