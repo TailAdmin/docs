@@ -14,7 +14,7 @@ You can do that easily by following this command.
 import ComponentName from '../components/ComponentName';
 ```
 
-Here are a few examples of the components:
+<mark style="color:blue;">**Here are a few examples of the components:**</mark>
 
 ### **Breadcrumb:**
 

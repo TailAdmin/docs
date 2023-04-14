@@ -6,11 +6,11 @@ description: >-
 
 # ⛰ Alpine.js Components
 
-#### [**Here are a few examples of the components:**](#user-content-fn-1)[^1]
+#### <mark style="color:blue;">**Here are a few examples of the components:**</mark>
 
 ### **Form Input Field**:
 
-We got all the form elements. And below are the form’s input field. The input fields have three different states, **Default**, **Active** and **Disabled**. You can use them according to your need.
+We got all the form elements. And below are the form’s input field. The input fields have three different states, **Default**, **ctive** and **Disabled**. You can use them according to your need.
 
 ```html
 <div>
@@ -42,7 +42,7 @@ We got all the form elements. And below are the form’s input field. The input 
 
 TailAdmin offers all types of charts for managing site analytics. You can utilize them to manage and improve your site.
 
-Here’s an example of a Visitor Analytics chart.
+Here’s an example of a visitor analytics chart.
 
 ```html
 <div class="col-span-12 flex flex-wrap items-center justify-between gap-3">
@@ -332,5 +332,3 @@ Here’s an example of the **Task** Component:
       </div>
     </div>
 ```
-
-[^1]: 

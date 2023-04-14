@@ -3,6 +3,8 @@ description: >-
   Welcome to the documentation for TailAdmin, This documentation covers all the
   essential aspects of using TailAdmin, from installation and usage to
   customization and exploring features.
+cover: .gitbook/assets/Image 7.png
+coverY: 365
 ---
 
 # 👋 Introduction
