@@ -5,7 +5,9 @@ description: >-
   back-end, dashboard, or admin panel.
 ---
 
-# Introduction
+# 👋 Introduction
+
+<figure><img src=".gitbook/assets/Image 7.png" alt=""><figcaption><p>Current Version - 1..2</p></figcaption></figure>
 
 TailAdmin provides two types of dashboard templates: one powered by Tailwind and AlpineJS and another powered by Tailwind and ReactJS.
 
