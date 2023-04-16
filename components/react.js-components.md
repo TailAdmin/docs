@@ -23,7 +23,7 @@ You can add Breadcrumb to your Dashboard by using this Breadcrumb Component.
 All you have to do is import it on the page you want to use and pass the required props to it.
 
 ```jsx
-		import React from 'react';
+    import React from 'react';
     import { Link } from 'react-router-dom';
 
     const Breadcrumb = (props) => {
@@ -48,6 +48,8 @@ All you have to do is import it on the page you want to use and pass the require
     export default Breadcrumb;
 ```
 
+<figure><img src="../.gitbook/assets/SCR-20230416-ha9.png" alt=""><figcaption></figcaption></figure>
+
 ### **Alerts**:
 
 Alerts Components are used to show short messages to the user. You can use it to show warning, error, or success messages.
@@ -55,7 +57,7 @@ Alerts Components are used to show short messages to the user. You can use it to
 To use it just import it into the page you want to use show the message and render it.
 
 ```jsx
-		import React from 'react';
+    import React from 'react';
     import DefaultLayout from '../../layout/DefaultLayout';
     import Breadcrumb from '../../components/Breadcrumb';
 
@@ -138,6 +140,8 @@ To use it just import it into the page you want to use show the message and rend
     export default Alerts;
 ```
 
+<figure><img src="../.gitbook/assets/SCR-20230416-hbk.png" alt=""><figcaption></figcaption></figure>
+
 ### **Accordion**:
 
 Accordion components allow you to add functionality like FAQ.
@@ -202,3 +206,5 @@ const AccordionItemOne = (props) => {
 
 export default AccordionItemOne
 ```
+
+<figure><img src="../.gitbook/assets/SCR-20230416-hcf.png" alt=""><figcaption></figcaption></figure>

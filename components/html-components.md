@@ -1,6 +1,6 @@
 ---
 description: >-
-  TailAdmin HTML: Tailwind + AlpineJS has more than 200 components, and you can
+  TailAdmin HTML: Tailwind + Alpine.js has more than 200 components, and you can
   use them to build any kind of dashboard you need.
 ---
 
@@ -10,7 +10,7 @@ description: >-
 
 ### **Form Input Field**:
 
-We got all the form elements. And below are the form’s input field. The input fields have three different states, **Default**, **ctive** and **Disabled**. You can use them according to your need.
+We got all the form elements. And below are the form’s input field. The input fields have three different states, **Default**, **Active** and **Disabled**. You can use them according to your need.
 
 ```html
 <div>
@@ -37,6 +37,8 @@ We got all the form elements. And below are the form’s input field. The input 
         class="border-stroke dark:border-form-strokedark dark:bg-form-input focus:border-primary dark:focus:border-primary active:border-primary bg-transparent w-full rounded-lg border-[1.5px] py-3 px-5 font-medium outline-none transition disabled:cursor-default disabled:bg-whiter dark:disabled:bg-black" />
    </div>
 ```
+
+<figure><img src="../.gitbook/assets/SCR-20230416-gwb.png" alt=""><figcaption></figcaption></figure>
 
 ### **Analytics Chart**:
 
@@ -121,6 +123,8 @@ Here’s an example of a visitor analytics chart.
     </div>
     <include src="./partials/chart-04.html" />
 ```
+
+<figure><img src="../.gitbook/assets/SCR-20230416-gxt.png" alt=""><figcaption></figcaption></figure>
 
 ### **Todo List**:
 
@@ -332,3 +336,5 @@ Here’s an example of the **Task** Component:
       </div>
     </div>
 ```
+
+<figure><img src="../.gitbook/assets/SCR-20230416-gys.png" alt=""><figcaption></figcaption></figure>
