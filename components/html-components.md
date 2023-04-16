@@ -1,10 +1,10 @@
 ---
 description: >-
-  The TailAdmin: Tailwind + AlpineJS has more than 200 components, and you can
+  TailAdmin HTML: Tailwind + AlpineJS has more than 200 components, and you can
   use them to build any kind of dashboard you need.
 ---
 
-# ⛰ Alpine.js Components
+# 🌐 HTML Components
 
 #### <mark style="color:blue;">**Here are a few examples of the components:**</mark>
 

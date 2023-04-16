@@ -1,7 +1,7 @@
 # 🥞 Components
 
-{% content-ref url="alpine.js-components.md" %}
-[alpine.js-components.md](alpine.js-components.md)
+{% content-ref url="html-components.md" %}
+[html-components.md](html-components.md)
 {% endcontent-ref %}
 
 {% content-ref url="react.js-components.md" %}

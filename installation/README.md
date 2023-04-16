@@ -6,7 +6,7 @@ description: >-
 
 # 🚀 Installation
 
-### TailAdmin Tailwind + AlpineJS
+### TailAdmin HTML - Tailwind + Alpine.js
 
 To use the TailAdmin dashboard template first you’ll have to install it.
 
@@ -37,7 +37,7 @@ npm run build
 
 
 
-### TailAdmin Tailwind + ReactJS
+### TailAdmin React - Tailwind + React.js
 
 In this part, we are going to show you how to install the TailAdmin Tailwind + ReactJS template.
 
