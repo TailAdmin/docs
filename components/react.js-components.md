@@ -20,6 +20,8 @@ import ComponentName from '../components/ComponentName';
 
 You can add Breadcrumb to your Dashboard by using this Breadcrumb Component.
 
+<figure><img src="../.gitbook/assets/SCR-20230416-ha9.png" alt=""><figcaption></figcaption></figure>
+
 All you have to do is import it on the page you want to use and pass the required props to it.
 
 ```jsx
@@ -48,11 +50,11 @@ All you have to do is import it on the page you want to use and pass the require
     export default Breadcrumb;
 ```
 
-<figure><img src="../.gitbook/assets/SCR-20230416-ha9.png" alt=""><figcaption></figcaption></figure>
-
 ### **Alerts**:
 
 Alerts Components are used to show short messages to the user. You can use it to show warning, error, or success messages.
+
+<figure><img src="../.gitbook/assets/SCR-20230416-hbk.png" alt=""><figcaption></figcaption></figure>
 
 To use it just import it into the page you want to use show the message and render it.
 
@@ -140,11 +142,11 @@ To use it just import it into the page you want to use show the message and rend
     export default Alerts;
 ```
 
-<figure><img src="../.gitbook/assets/SCR-20230416-hbk.png" alt=""><figcaption></figcaption></figure>
-
 ### **Accordion**:
 
 Accordion components allow you to add functionality like FAQ.
+
+<figure><img src="../.gitbook/assets/SCR-20230416-hcf.png" alt=""><figcaption></figcaption></figure>
 
 To add an FAQ to your project import the Accordion Component and pass the required props to it.
 
@@ -206,5 +208,3 @@ const AccordionItemOne = (props) => {
 
 export default AccordionItemOne
 ```
-
-<figure><img src="../.gitbook/assets/SCR-20230416-hcf.png" alt=""><figcaption></figcaption></figure>

@@ -12,6 +12,8 @@ description: >-
 
 We got all the form elements. And below are the form’s input field. The input fields have three different states, **Default**, **Active** and **Disabled**. You can use them according to your need.
 
+<figure><img src="../.gitbook/assets/SCR-20230416-gwb.png" alt=""><figcaption></figcaption></figure>
+
 ```html
 <div>
       <label class="mb-3 block text-black dark:text-white">
@@ -38,11 +40,11 @@ We got all the form elements. And below are the form’s input field. The input 
    </div>
 ```
 
-<figure><img src="../.gitbook/assets/SCR-20230416-gwb.png" alt=""><figcaption></figcaption></figure>
-
 ### **Analytics Chart**:
 
 TailAdmin offers all types of charts for managing site analytics. You can utilize them to manage and improve your site.
+
+<figure><img src="../.gitbook/assets/SCR-20230416-gxt.png" alt=""><figcaption></figcaption></figure>
 
 Here’s an example of a visitor analytics chart.
 
@@ -124,12 +126,12 @@ Here’s an example of a visitor analytics chart.
     <include src="./partials/chart-04.html" />
 ```
 
-<figure><img src="../.gitbook/assets/SCR-20230416-gxt.png" alt=""><figcaption></figcaption></figure>
-
 ### **Todo List**:
 
 You can build a fully functional task manager inside your dashboard and manage tasks from there.\
 You can use the **Task** Component for the tasks.
+
+<figure><img src="../.gitbook/assets/SCR-20230416-gys.png" alt=""><figcaption></figcaption></figure>
 
 Here’s an example of the **Task** Component:
 
@@ -336,5 +338,3 @@ Here’s an example of the **Task** Component:
       </div>
     </div>
 ```
-
-<figure><img src="../.gitbook/assets/SCR-20230416-gys.png" alt=""><figcaption></figcaption></figure>
