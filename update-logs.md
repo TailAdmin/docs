@@ -2,7 +2,7 @@
 description: Update logs of TailAdmin
 ---
 
-# Update Logs
+# ☑ Update Logs
 
 #### 1.0 - January 2
 
