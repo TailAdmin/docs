@@ -1,8 +1,8 @@
 ---
-description: Update logs of TailAdmin
+description: Update Logs for TailAdmin HTML version
 ---
 
-# ☑ Update Logs
+# HTML
 
 #### 1.0 - January 2
 
@@ -17,6 +17,14 @@ description: Update logs of TailAdmin
 #### 1.1.1 - May 3
 
 * Date Picker and Style Enhancements
+
+#### 1.1.1 - June 6
+
+* Updated packages
+
+#### 1.1.1 - Jul 20
+
+* Data tables style updated
 
 
 
