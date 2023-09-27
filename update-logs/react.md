@@ -26,6 +26,10 @@ description: Update Logs for TailAdmin React version
 * Move components to individual directory
 * Update Data Tables style
 
+**September 2023**
+
+* Migrated Data Tables from simple-datatables to react-table
+
 
 
 
