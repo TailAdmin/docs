@@ -70,7 +70,7 @@ After that, run this command to generate the **build** folder. You can upload th
 
 ### TailAdmin Next.js: Tailwind + Next.js
 
-In this part, we are going to show you how to install the TailAdmin Next.js + Next.js template.
+In this part, we are going to show you how to install the TailAdmin Next.js template.
 
 Follow these steps to install the templates.
 
@@ -99,4 +99,37 @@ or
 
 ```
 yarn dev
+```
+
+
+
+### TailAdmin Vue: Tailwind + Vue.js <a href="#vue" id="vue"></a>
+
+In this section, we'll guide you through the installation process of the TailAdmin Vue template.
+
+Follow these steps to install the template:
+
+**Note:** We've utilized **Vite** as build tool for TailAdmin Vue.
+
+1. Download and extract the TailAdmin zip package
+2. Navigate to the project folder and execute the following command:
+
+```sh
+npm install
+```
+
+3. After that, run this command to start the local server:
+
+```sh
+npm run dev
+```
+
+Upon successful execution of the `dev` command, the TailAdmin will open on port: [http://localhost:5173/](http://localhost:5173/).
+
+Now, you can customize the dashboard and observe the changes locally.
+
+Once customization is complete, run the following command to generate the build folder. You can then upload this **build** folder to your server, and the dashboard will be live.
+
+```sh
+npm run build
 ```

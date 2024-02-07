@@ -5,6 +5,7 @@
   * [HTML Version](installation/README.md#tailadmin-html-tailwind-+-alpine.js)
   * [React Version](installation/README.md#tailadmin-react-tailwind-+-react.js)
   * [Next.js Version](installation/README.md#tailadmin-next.js-tailwind-+-next.js)
+  * [Vue.js Version](installation/README.md#tailadmin-next.js-tailwind-+-next.js)
 * [🥞 Components](components/README.md)
   * [🌐 HTML Components](components/html-components.md)
   * [💎 React.js Components](components/react.js-components.md)

@@ -9,7 +9,7 @@ coverY: 365
 
 # 👋 Introduction
 
-<figure><img src=".gitbook/assets/Screen 1 (2).png" alt=""><figcaption><p>Current Version - 1.0.3</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen 1 (2).png" alt=""><figcaption><p>Current Version - 1.3.0</p></figcaption></figure>
 
 You will learn how to install and set up TailAdmin, customize the template to suit your needs, and make use of its built-in components and plugins.
 
