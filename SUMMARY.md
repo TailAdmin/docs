@@ -16,5 +16,6 @@
   * [HTML](update-logs/html.md)
   * [React](update-logs/react.md)
   * [Next.js](update-logs/next.js.md)
+  * [Vue.js](update-logs/vue.js.md)
 * [🔗 Useful Links](useful-links.md)
 * [🎯 Back to Main Site](https://tailadmin.com/)

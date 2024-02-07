@@ -31,6 +31,10 @@ module.exports = {
 }
 ```
 
+### **Dark Mode Settings**
+
+We follow official Tailwind CSS approach while managing dark mode, please follow detailed [documentation with examples here](https://tailwindcss.com/docs/dark-mode#toggling-dark-mode-manually)
+
 ### **Spacing**:
 
 Just like the colors you can customize spacing by adding the values to the spacing key.
