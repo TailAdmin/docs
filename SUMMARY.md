@@ -9,6 +9,7 @@
 * [🥞 Components](components/README.md)
   * [🌐 HTML Components](components/html-components.md)
   * [💎 React.js Components](components/react.js-components.md)
+  * [🔥 Next.js Components](components/next.js-components.md)
   * [🌳 Vue.js Components](components/vue.js-components.md)
 * [💅 Customization](customization.md)
 * [✨ Credits and Resources](credits-and-resources.md)
