@@ -13,7 +13,7 @@
   * [🌳 Vue.js Components](components/vue.js-components.md)
 * [💅 Customization](customization.md)
 * [✨ Credits and Resources](credits-and-resources.md)
-* [☑ Update Logs](update-logs.md)
+* [☑️ Update Logs](update-logs.md)
   * [HTML](update-logs/html.md)
   * [React](update-logs/react.md)
   * [Next.js](update-logs/next.js.md)
